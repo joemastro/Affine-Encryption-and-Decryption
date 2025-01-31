@@ -12,4 +12,4 @@ $$
 D(x) = \alpha^{-1} \cdot (x - \beta) \mod 26
 $$
 
-Where $ \alpha^{-1} $ is the modular inverse of $ \alpha $ modulo 26.
+Where $\alpha^{-1}$ is the modular inverse of $\alpha\mod 26$.
