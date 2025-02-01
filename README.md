@@ -14,8 +14,8 @@ $$
 
 Where $\alpha^{-1}$ is the modular inverse of $\alpha\mod 26$.
 
-## Python Script
-### Running the Python Script
+# Python Script
+## Running the Python Script
 1. Open a terminal or command prompt.
 2. Navigate to the project directory.
 3. Run the Python script using the following command:
