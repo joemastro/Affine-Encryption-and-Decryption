@@ -1,6 +1,6 @@
 # About the Affine Cipher: Encryption and Decryption
 
-This is script is an encrypting/decrypting tool for an Affine cipher. Given a key $k = (\alpha, \beta)$ where $0 \leq \alpha, \beta \leq 25$ (and $\gcd(\alpha, \beta) = 1$), we can encrypt some $x$ (inputted as a character, converted to an integer) via:
+This script is an encrypting/decrypting tool for an Affine cipher. Given a key $k = (\alpha, \beta)$ where $0 \leq \alpha, \beta \leq 25$ (and $\gcd(\alpha, \beta) = 1$), we can encrypt some $x$ (inputted as a character, converted to an integer) via:
 
 $$
 E(x) = (\alpha \cdot x + \beta) \mod 26
